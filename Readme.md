@@ -9,4 +9,4 @@
 ##### Purpose:
     Generate different variations of given image
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/openai/dalle-e2-image-variation/).
+#### Check out the live app [here](https://priyanka23-brs.github.io/Dall-E2-Image-Variation-AI/).
